@@ -1,3 +1,5 @@
+//histogram equalization programm in Java
+
 package histogrameq;
 
 import java.awt.Color;
